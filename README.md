@@ -1,5 +1,8 @@
-### Hi there 👋
-
+### Hi there👋, I'm Lilia Hrytsak, a Junior Data Scientist 
+- 🔭 I’m currently working on my Data Science pet project in python
+- 👯 I’m looking for my first job in the Data Science branch
+- 📫 I like to learn something new and meet new interesting people
+- 📫 You can reach me on [linkedin](https://www.linkedin.com/in/liliia-hrytsak-ba9085225/)
 <!--
 **LiliiaHrytsak/LiliiaHrytsak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
